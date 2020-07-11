@@ -1,0 +1,1 @@
+Insert your Bot key in this file! (copy and paste from the discord website)
